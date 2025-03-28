@@ -32,11 +32,19 @@ Date of finished: 28.03.2025
 
 ![image](https://github.com/user-attachments/assets/5bfb5536-90bf-45f7-b79c-12617b2a404c)
 
+А для комутаторов назначим имена (Switch1-4) и поднимем интерфейсы, по которым выполнены подключения к компьютерам или другим коммутаторам.
+
 ![image](https://github.com/user-attachments/assets/e64c00bf-dcf8-4eed-93e2-773f73c188e5)
+
+Для проверки правильности настройки отправим ping-запросы с одного компьютера на другой. Сначала - с PC0 на PC1. 
 
 ![image](https://github.com/user-attachments/assets/4e91b00b-056a-4cd3-a993-f7d75e103745)
 
+Затем - с PC6 на PC4.
+
 ![image](https://github.com/user-attachments/assets/cf9097f3-8931-48a8-a586-bf92c3005e4e)
+
+Пинги проходят успешно, значит сеть настроена корректно.
 
 
 
