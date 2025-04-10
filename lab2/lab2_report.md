@@ -14,7 +14,7 @@ Lab: Lab2
 
 Date of create: 07.04.2025
 
-Date of finished: 27.04.2025
+Date of finished: 10.04.2025
 
 # Лабораторная работ №2 "Конфигурация voip в среде Сisco packet tracer"
 
