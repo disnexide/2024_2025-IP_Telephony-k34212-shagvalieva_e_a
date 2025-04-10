@@ -55,9 +55,11 @@ Date of finished: 27.04.2025
 
 ![image](https://github.com/user-attachments/assets/1c9d6a63-d9ec-4cba-9d57-a6eb694693aa)
 
+Настраиваем интерфейсы с инкапсуляцией dot1Q для VLAN.
+
 ![image](https://github.com/user-attachments/assets/c8385208-68b0-463f-a9d5-b44424ceb165)
 
-![image](https://github.com/user-attachments/assets/b85adfff-1f53-48ee-9290-aeeb6bb6e398)
+Настраиваем Cisco CallManager Express.
 
 ![image](https://github.com/user-attachments/assets/76526501-c1e8-4e5e-b813-05ee2d76f9db)
 
