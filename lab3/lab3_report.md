@@ -60,3 +60,20 @@ sudo systemctl enable asterisk
 sudo asterisk -rvvv 
 ```
 
+![image](https://github.com/user-attachments/assets/ed4e2d33-fa7b-4978-be05-3a9b023b379c)
+
+Отредактируем файл конфигурации sip.conf.
+
+![image](https://github.com/user-attachments/assets/3bddaced-ccbc-4e12-b053-80303c4810e7)
+
+И раздел [default] файла extensions.conf.
+
+![image](https://github.com/user-attachments/assets/c568decd-b7f2-4483-846b-b1670081afcf)
+
+Затем с soft-телефона подключаемся к серверу и в конце проверяем звонки: исходящий.
+
+![image](https://github.com/user-attachments/assets/3bde1d1e-9dc9-41c7-a39f-54f6ea93d73a)
+
+И входящий.
+
+![image](https://github.com/user-attachments/assets/b454cc86-ef5f-44af-81c6-683b74152325)
