@@ -26,7 +26,7 @@ Date of finished: 13.04.2025
 
 Для начала работы настроим среду с помощью следюущих команд:
 
-'''
+```
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y build-essential wget curl git nano sudo
 sudo apt install -y libxml2-dev libncurses5-dev libnewt-dev libsqlite3-dev libssl-dev uuid-dev libjansson-dev libedit-dev pkg-config
@@ -49,13 +49,14 @@ sudo make install
 sudo make samples
 sudo make config
 sudo ldconfig
-'''
+```
 
 И проверим, что все установилось корректно и подключимся к консоли Asterisk.
-'''
+
+```
 asterisk -V  
 sudo systemctl start asterisk
 sudo systemctl enable asterisk
 sudo asterisk -rvvv 
-'''
+```
 
